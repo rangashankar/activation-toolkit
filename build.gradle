@@ -1,5 +1,5 @@
 allprojects {
-    group = 'com.example.activation'
+    group = 'com.acme.activation'
     version = '0.1.0'
 
     repositories {
